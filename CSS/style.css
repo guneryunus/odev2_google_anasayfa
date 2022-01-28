@@ -1,0 +1,25 @@
+.sutun1 {
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+}
+
+.sutun2 {
+    background-color: #70CCC2;
+    /* width: 220px; */
+    /* width: 25%; */
+}
+
+.sutun3 {
+    background-color: rgb(98, 179, 170);
+    text-align: -webkit-right;
+    /* width: 30%; */
+    /* width: 430px; */
+}
+
+.table {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    width: 90%;
+}
